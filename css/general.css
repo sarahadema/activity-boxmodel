@@ -47,7 +47,7 @@ article {
     margin:0;
     padding:0 5%;
     overflow: hidden;
-    background-color: blue;
+    background-color: white;
 
 }
 
@@ -55,7 +55,7 @@ h1{
     margin: 1.5rem 0;
     font-size: 5rem;
     line-height:4.5rem;
-    color: white;
+    color: blue;
 }
 
 h1+p+p {
@@ -65,7 +65,7 @@ h1+p+p {
 p {
     line-height: 1.5rem;
     margin: 0 0 1.5;
-    color: white;
+    color: blue;
 }
 
 figure {
@@ -76,11 +76,11 @@ figure {
 figcaption {
     margin: .5rem 0 0;
     font-size: .8rem;
-    color: white;
+    color: blue;
 }
 
 ul li{
-    color: white;}
+    color: blue;}
 
 footer {
     overflow: hidden;
