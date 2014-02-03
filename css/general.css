@@ -40,7 +40,7 @@ body {
 .logo {
     height: 8rem;
     width: auto;
-    margin: .5rem 5%;
+    margin: .5rem 5% 1.5rem;
 }
 
 article {
