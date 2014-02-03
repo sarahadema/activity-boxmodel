@@ -33,7 +33,7 @@ body {
 }
 
 .masthead {
-    
+    background-color:blue;
     overflow: hidden;
 }
 
@@ -87,24 +87,25 @@ figcaption {
 ul li{
     color: blue;}
 
-footer {
-    overflow: hidden;
-    background-color: white;
-}
-
 .finallogo {
     margin: .5rem auto 5%;
     height: 8rem;
     width:auto
 }
+
+footer {
+    overflow: hidden;
+    background-color: blue;
+}
+
 footer p {
     margin: .5rem 5% 5rem;
-    color: blue;
+    color: white;
     font-size: .5rem;
 }
 
 footer a {
-    color: blue;
+    color: white;
 }
         
     
